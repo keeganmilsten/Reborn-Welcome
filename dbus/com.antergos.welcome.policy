@@ -10,7 +10,7 @@
   -->
 
   <vendor>Antergos</vendor>
-  <vendor_url>https://www.antergos.com</vendor_url>
+  <vendor_url>https://rebornos.wordpress.com</vendor_url>
   <icon_name>antergos-desktop</icon_name>
 
   <action id="com.antergos.welcome.update">
